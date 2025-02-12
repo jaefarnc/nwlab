@@ -1,7 +1,8 @@
 ---
 title: Home
 layout: default
-nav_order: 1 
+nav_order: 1
+permalink: /
 ---
 # Some Networks Lab Notes ...
 
