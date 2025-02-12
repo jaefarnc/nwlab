@@ -3,6 +3,7 @@ description: A documentation of activities performed under the Networks Lab Cour
 theme: just-the-docs
 
 logo: "/assets/images/icons8-router-symbol-dotted-96.png"
+favicon_ico: "/assets/images/favicon.ico"
 domain: jaefarnc.github.io
 url: https://jaefarnc.github.io
 baseurl: /nwlab
