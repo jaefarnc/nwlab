@@ -284,8 +284,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 232)
-  just-the-docs (= 0.10.1)
-  webrick (~> 1.9)
+  just-the-docs
+  webrick
 
 BUNDLED WITH
    2.5.9
