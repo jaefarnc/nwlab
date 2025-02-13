@@ -1,17 +1,17 @@
 ---
-title: L2 Switch
+title: L3 Switch
 layout: default
 parent: pfSense 
 nav_order: 5 
 ---
-# Configuring the L2 Switch
+# Configuring the L3 Switch
 
-At this point, you should have created all the necessary gateways. Now, it's time to configure the Layer 2 (L2) switch. Without this configuration, you'll receive raw traffic through the switch, which is not ideal for proper network management.
+At this point, you should have created all the necessary gateways. Now, it's time to configure the Layer 3 (L3) switch. Without this configuration, you'll receive raw traffic through the switch, which is not ideal for proper network management.
 
-## Step 1: Prepare the L2 Switch
+## Step 1: Prepare the L3 Switch
 
 1. **Collect Equipment**:
-   - Obtain the L2 switch and two Ethernet cables from the lab admins.
+   - Obtain the L3 switch and two Ethernet cables from the lab admins.
 
 2. **Power and Reset the Switch**:
    - Plug in the power cable for the switch.
