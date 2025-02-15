@@ -12,9 +12,8 @@ This documentation will guide you through the process of setting up VirtualBox a
 
 To begin, follow the instructions provided at [http://192.168.40.199/vbdb](http://192.168.40.199/vbdb) for installing VirtualBox. The ISO files for both **pfSense** and **Ubuntu** are also available for download from this location.
 
-Alternatively, get the zip file here:
-
-[Download](https://jaefarnc.github.io/nwlab/assets/downloads/Downloadit.zip){: .btn}
+Alternatively, get the zip file here:   
+[Download](https://jaefarnc.github.io/nwlab/assets/downloads/Downloadit.zip){: .btn .btn-purple }
 
 1. Download and install VirtualBox according to the instructions.
 2. Ensure that you have the appropriate **pfSense** and **Ubuntu** ISO files.
