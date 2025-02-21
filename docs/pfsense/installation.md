@@ -14,7 +14,7 @@ To begin, follow the instructions provided at [http://192.168.40.199/vbdb](http:
 
 Alternatively, get the zip file here:   
 [VBox-Installation](https://jaefarnc.github.io/nwlab/assets/downloads/Downloadit.zip){: .btn .btn-purple }
-[pfSense-ISO](/assets/downloads/pfsense.iso){: .btn .btn-purple }
+[pfSense-ISO(Compressed)](https://repo.ialab.dsu.edu/pfsense/pfSense-CE-2.7.2-RELEASE-amd64.iso.gz){: .btn .btn-purple }
 [Ubuntu-ISO](https://releases.ubuntu.com/jammy/ubuntu-22.04.5-desktop-amd64.iso){: .btn .btn-purple }
 1. Download and install VirtualBox according to the instructions.
 2. Ensure that you have the appropriate **pfSense** and **Ubuntu** ISO files.
