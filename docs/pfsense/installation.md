@@ -67,6 +67,7 @@ In VirtualBox, you need to configure host-only networks to ensure proper communi
 
 1. **Start the Ubuntu VM**:
    - Boot the Ubuntu VM using the **Ubuntu ISO**.
+   - Remember to check the box for skipping unattended installation.
 
 2. **Follow the Standard Installation Steps**:
    - Proceed with the typical installation steps for Ubuntu, such as selecting language, keyboard layout, disk partitioning, and creating a user account.

@@ -36,6 +36,7 @@ At this point, you should have created all the necessary gateways. Now, it's tim
 ## Step 3: Access the Switch Management Portal
 
 1. Open **Firefox** and go to `http://192.168.1.10` to access the switch's management portal.
+2. The username and password to login to the portal are 'admin'.
    
 ### Step 4: Create VLANs
 
